@@ -1,6 +1,6 @@
 # Ready Set Fractal
 
-Just a project to help quick start development using Fractal, as driven by npm scripts.
+Just a project to help quick start development using [Fractal](https://fractal.build/), as driven by npm scripts.
 
 ## Getting started
 
@@ -15,4 +15,4 @@ Just a project to help quick start development using Fractal, as driven by npm s
 
 ## Thanks
 
-All props and thanks to Rachel Andrew and [this post on Smashing Magazine](https://www.smashingmagazine.com/2018/07/pattern-library-first-css/#comments-pattern-library-first-css); this repo is basically just the results of that, tweaked to taste, and shifted to use npm scripts instead of Gulp.
+All props and thanks to Rachel Andrew and [this post on Smashing Magazine](https://www.smashingmagazine.com/2018/07/pattern-library-first-css/); this repo is basically just the results of that, tweaked to taste, and shifted to use npm scripts instead of Gulp.
