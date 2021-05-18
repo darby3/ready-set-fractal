@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "@babel/core": "^7.14.3",
-    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-env": "^7.14.2",
     "@frctl/fractal": "^1.5.6",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
