@@ -5,6 +5,7 @@ Just a project to help quick start development using [Fractal](https://fractal.b
 ## Getting started
 
 * Edit fractal.js to set a project title.
+* nvm use
 * npm install
 * npm run dev
 
