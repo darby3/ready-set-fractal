@@ -17,7 +17,7 @@ Ideally it's great for setting up a pattern library _and_ for setting up iterabl
 
 * favicon.ico is a placeholder because, for some reason, for me, when fractal looks for a file, and can't find it, it crashes and burns.
 * ./public/global.css will fill itself up on the first run.
-* There's a couple js scripts in the `package.json` file. The "basic" versions justc copy components over; the others run the files through shell scripts to browsersify/babelify them. For a pattern library, or a sketchbook, those are probably unnecessary, but they're here for reference's sake, because if I ever do need them again, I don't want to figure out how to do all that again. (I should convert them to node scripts, but.)
+* There's a couple js scripts in the `package.json` file. The "basic" versions just copy components over; the others run the files through shell scripts to browsersify/babelify them. For a pattern library, or a sketchbook, those are probably unnecessary, but they're here for reference's sake, because if I ever do need them again, I don't want to figure out how to do all that again. (I should convert them to node scripts, but.)
 
 ## Thanks
 
