@@ -1,6 +1,6 @@
 {
   "name": "ready-set-fractal",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "dependencies": {
     "@frctl/fractal": "^1.5.15",
     "node-sass": "^9.0.0",
