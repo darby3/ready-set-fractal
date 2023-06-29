@@ -12,6 +12,7 @@ fractal.set('project.title', 'Fractal Starter Project');
  */
 fractal.components.set('path', path.join(__dirname, 'components'));
 fractal.components.set('default.status', 'wip');
+fractal.components.set('default.preview', '@preview');
 fractal.docs.set('path', path.join(__dirname, 'docs'));
 fractal.web.set('static.path', path.join(__dirname, 'public'));
 

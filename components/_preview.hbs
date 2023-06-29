@@ -7,6 +7,12 @@
     <link rel="stylesheet" href="{{ path '/css/global.css' }}">
 </head>
 <body>
+
 {{{ yield }}}
+
+{{#each _target.context.scripts}}
+    <script type="module" src="/js/components/{{ this }}"></script>
+{{/each}}
+
 </body>
 </html>
